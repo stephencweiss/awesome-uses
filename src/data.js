@@ -5822,6 +5822,17 @@ module.exports = [
     ],
   },
   {
+    name: 'Stephen Weiss',
+    description: 'Engineer. Tinkerer. Husband. Learner. Lucky.'
+    url: 'https://stephencharlesweiss.com/lists/uses'
+    country: '🇺🇸',
+    emoji: '🤓',
+    computer: 'apple',
+    phone: 'apple',
+    tags: ['Front end','Engineer','Full stack','Javascript','React','Node','Python','Typescript','Style Components','CSS','Gatsby','Next','AWS'
+    ]
+  }
+  {
     name: 'Zander Martineau',
     description: 'Independent front-end-full-stack-UI-UX-engineer coder',
     url: 'https://zander.wtf/writing/my-setup',
